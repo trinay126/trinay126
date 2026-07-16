@@ -12,13 +12,13 @@
       <stop offset="1" stop-color="#ffffff" stop-opacity="0.04"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1600" y2="0">
-      <stop offset="0" stop-color="#7c3aed" stop-opacity="0"/>
-      <stop offset="0.34" stop-color="#7c3aed" stop-opacity="0.95"/>
-      <stop offset="0.66" stop-color="#dc143c" stop-opacity="0.95"/>
-      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="0" stop-color="#8b0000" stop-opacity="0"/>
+      <stop offset="0.34" stop-color="#dc143c" stop-opacity="0.96"/>
+      <stop offset="0.66" stop-color="#ff3b5c" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#8b0000" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="accent2" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="0" stop-color="#ff3b5c"/>
       <stop offset="1" stop-color="#dc143c"/>
     </linearGradient>
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
@@ -33,7 +33,7 @@
   </defs>
   <rect width="1600" height="2600" fill="url(#bg)"/>
   <rect width="1600" height="2600" fill="url(#grid)"/>
-  <circle cx="260" cy="220" r="260" fill="#7c3aed" fill-opacity="0.16" filter="url(#soft)">
+  <circle cx="260" cy="220" r="260" fill="#dc143c" fill-opacity="0.16" filter="url(#soft)">
     <animate attributeName="cx" values="240;320;240" dur="12s" repeatCount="indefinite"/>
   </circle>
   <circle cx="1340" cy="300" r="320" fill="#dc143c" fill-opacity="0.12" filter="url(#soft)">
@@ -50,7 +50,7 @@
   <text x="800" y="214" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" letter-spacing="1.5">TRINAY SAI CHADALAVADA</text>
   <text x="800" y="256" fill="#d8d7de" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" text-anchor="middle">Backend Developer | Python Developer | Data Analytics | Applied AI</text>
 
-  <circle cx="800" cy="154" r="64" fill="#0c0b12" stroke="#7c3aed" stroke-opacity="0.7" stroke-width="4"/>
+  <circle cx="800" cy="154" r="64" fill="#0c0b12" stroke="#dc143c" stroke-opacity="0.7" stroke-width="4"/>
   <circle cx="800" cy="154" r="58" fill="#1f1530" stroke="#ffffff" stroke-opacity="0.08" stroke-width="2"/>
   <circle cx="800" cy="154" r="54" fill="url(#accent2)" fill-opacity="0.08"/>
   <text x="800" y="166" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">TS</text>
@@ -78,21 +78,21 @@
   <g>
     <rect x="116" y="558" width="452" height="210" rx="24" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.08"/>
     <rect x="116" y="558" width="452" height="7" rx="4" fill="url(#accent)"/>
-    <text x="148" y="602" fill="#f5e7ff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Current Focus</text>
+    <text x="148" y="602" fill="#ffe5e9" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Current Focus</text>
     <text x="148" y="636" fill="#d8d7de" font-family="Segoe UI, Arial, sans-serif" font-size="17">Backend engineering and systems work with current</text>
     <text x="148" y="662" fill="#d8d7de" font-family="Segoe UI, Arial, sans-serif" font-size="17">curiosity in architecture, automation, and shipping.</text>
     <text x="148" y="705" fill="#fca5a5" font-family="JetBrains Mono, Consolas, monospace" font-size="16">Advancing Python, FastAPI, PostgreSQL, Docker.</text>
 
     <rect x="574" y="558" width="452" height="210" rx="24" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.08"/>
     <rect x="574" y="558" width="452" height="7" rx="4" fill="url(#accent)"/>
-    <text x="606" y="602" fill="#f5e7ff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Professional Summary</text>
+    <text x="606" y="602" fill="#ffe5e9" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Professional Summary</text>
     <text x="606" y="636" fill="#d8d7de" font-family="Segoe UI, Arial, sans-serif" font-size="17">Final-year CSE student focused on backend</text>
     <text x="606" y="662" fill="#d8d7de" font-family="Segoe UI, Arial, sans-serif" font-size="17">engineering, data analytics, and applied AI.</text>
     <text x="606" y="705" fill="#fca5a5" font-family="JetBrains Mono, Consolas, monospace" font-size="16">Goal: build AI SaaS products with real value.</text>
 
     <rect x="1032" y="558" width="452" height="210" rx="24" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.08"/>
     <rect x="1032" y="558" width="452" height="7" rx="4" fill="url(#accent)"/>
-    <text x="1064" y="602" fill="#f5e7ff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Career Objective</text>
+    <text x="1064" y="602" fill="#ffe5e9" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Career Objective</text>
     <text x="1064" y="636" fill="#d8d7de" font-family="Segoe UI, Arial, sans-serif" font-size="17">Engineer products that feel premium, fast,</text>
     <text x="1064" y="662" fill="#d8d7de" font-family="Segoe UI, Arial, sans-serif" font-size="17">scalable, and easy to trust from the first glance.</text>
     <text x="1064" y="705" fill="#fca5a5" font-family="JetBrains Mono, Consolas, monospace" font-size="16">Open to internships and high-impact roles.</text>
@@ -114,12 +114,12 @@
     <rect x="607" y="890" width="386" height="220" rx="26" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
     <text x="800" y="930" fill="#d8d7de" text-anchor="middle">Current</text>
     <g transform="translate(644 950)">
-      <rect width="290" height="40" rx="16" fill="#1a1327" stroke="#a855f7" stroke-opacity="0.55"/>
-      <text x="22" y="26" fill="#ffffff">Advanced Python</text><text x="266" y="26" fill="#a855f7">▶</text>
-      <rect y="52" width="290" height="40" rx="16" fill="#1a1327" stroke="#a855f7" stroke-opacity="0.55"/>
-      <text x="22" y="78" fill="#ffffff">Git / GitHub</text><text x="266" y="78" fill="#a855f7">▶</text>
-      <rect y="104" width="290" height="40" rx="16" fill="#1a1327" stroke="#a855f7" stroke-opacity="0.55"/>
-      <text x="22" y="130" fill="#ffffff">DSA</text><text x="266" y="130" fill="#a855f7">▶</text>
+      <rect width="290" height="40" rx="16" fill="#1a1327" stroke="#dc143c" stroke-opacity="0.55"/>
+      <text x="22" y="26" fill="#ffffff">Advanced Python</text><text x="266" y="26" fill="#dc143c">▶</text>
+      <rect y="52" width="290" height="40" rx="16" fill="#1a1327" stroke="#dc143c" stroke-opacity="0.55"/>
+      <text x="22" y="78" fill="#ffffff">Git / GitHub</text><text x="266" y="78" fill="#dc143c">▶</text>
+      <rect y="104" width="290" height="40" rx="16" fill="#1a1327" stroke="#dc143c" stroke-opacity="0.55"/>
+      <text x="22" y="130" fill="#ffffff">DSA</text><text x="266" y="130" fill="#dc143c">▶</text>
     </g>
 
     <rect x="1096" y="890" width="386" height="220" rx="26" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
@@ -140,10 +140,10 @@
     <rect x="446" y="1264" width="318" height="300" rx="26" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
     <rect x="784" y="1264" width="318" height="300" rx="26" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
     <rect x="1122" y="1264" width="370" height="300" rx="26" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
-    <text x="267" y="1304" fill="#d8d7de" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Languages</text>
-    <text x="605" y="1304" fill="#d8d7de" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Backend</text>
-    <text x="943" y="1304" fill="#d8d7de" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Databases</text>
-    <text x="1307" y="1304" fill="#d8d7de" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Data Analytics</text>
+    <text x="267" y="1304" fill="#ffe5e9" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Languages</text>
+    <text x="605" y="1304" fill="#ffe5e9" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Backend</text>
+    <text x="943" y="1304" fill="#ffe5e9" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Databases</text>
+    <text x="1307" y="1304" fill="#ffe5e9" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Data Analytics</text>
     <g font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#ffffff">
       <text x="145" y="1360">Python</text><text x="145" y="1400">JavaScript</text><text x="145" y="1440">HTML / CSS</text>
       <text x="483" y="1360">FastAPI</text><text x="483" y="1400">Git / GitHub</text><text x="483" y="1440">Docker</text>
@@ -151,11 +151,11 @@
       <text x="1159" y="1360">Power BI</text><text x="1159" y="1400">Excel</text><text x="1159" y="1440">Analytics</text>
     </g>
     <rect x="140" y="1480" width="228" height="18" rx="9" fill="#ffffff" fill-opacity="0.08"/>
-    <rect x="140" y="1480" width="180" height="18" rx="9" fill="#a855f7"/>
+    <rect x="140" y="1480" width="180" height="18" rx="9" fill="#dc143c"/>
     <rect x="478" y="1480" width="228" height="18" rx="9" fill="#ffffff" fill-opacity="0.08"/>
     <rect x="478" y="1480" width="166" height="18" rx="9" fill="#dc143c"/>
     <rect x="816" y="1480" width="228" height="18" rx="9" fill="#ffffff" fill-opacity="0.08"/>
-    <rect x="816" y="1480" width="152" height="18" rx="9" fill="#7c3aed"/>
+    <rect x="816" y="1480" width="152" height="18" rx="9" fill="#dc143c"/>
     <rect x="1154" y="1480" width="228" height="18" rx="9" fill="#ffffff" fill-opacity="0.08"/>
     <rect x="1154" y="1480" width="188" height="18" rx="9" fill="#dc143c"/>
   </g>
@@ -165,9 +165,9 @@
     <rect x="132" y="1726" width="428" height="120" rx="24" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/>
     <rect x="586" y="1726" width="428" height="120" rx="24" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/>
     <rect x="1040" y="1726" width="428" height="120" rx="24" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/>
-    <text x="346" y="1770" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Databricks AI Agent Fundamentals</text>
-    <text x="800" y="1770" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Cisco Python Essentials</text>
-    <text x="1254" y="1770" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Microsoft Power BI (Coursera)</text>
+    <text x="346" y="1770" fill="#ffe5e9" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Databricks AI Agent Fundamentals</text>
+    <text x="800" y="1770" fill="#ffe5e9" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Cisco Python Essentials</text>
+    <text x="1254" y="1770" fill="#ffe5e9" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Microsoft Power BI (Coursera)</text>
     <text x="346" y="1806" fill="#d1d5db" font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle">Applied AI Agent Foundations</text>
     <text x="800" y="1806" fill="#d1d5db" font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle">Python core discipline</text>
     <text x="1254" y="1806" fill="#d1d5db" font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle">Analytics and dashboarding</text>
@@ -178,9 +178,9 @@
     <rect x="108" y="2010" width="470" height="206" rx="24" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/>
     <rect x="590" y="2010" width="420" height="206" rx="24" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/>
     <rect x="1024" y="2010" width="468" height="206" rx="24" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/>
-    <text x="343" y="2050" fill="#d8d7de" font-family="JetBrains Mono, Consolas, monospace" font-size="17" text-anchor="middle">GitHub Stats</text>
-    <text x="800" y="2050" fill="#d8d7de" font-family="JetBrains Mono, Consolas, monospace" font-size="17" text-anchor="middle">Streak</text>
-    <text x="1258" y="2050" fill="#d8d7de" font-family="JetBrains Mono, Consolas, monospace" font-size="17" text-anchor="middle">Trophies</text>
+    <text x="343" y="2050" fill="#ffe5e9" font-family="JetBrains Mono, Consolas, monospace" font-size="17" text-anchor="middle">GitHub Stats</text>
+    <text x="800" y="2050" fill="#ffe5e9" font-family="JetBrains Mono, Consolas, monospace" font-size="17" text-anchor="middle">Streak</text>
+    <text x="1258" y="2050" fill="#ffe5e9" font-family="JetBrains Mono, Consolas, monospace" font-size="17" text-anchor="middle">Trophies</text>
     <text x="343" y="2104" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle">5.0</text>
     <text x="800" y="2104" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle">395</text>
     <text x="1258" y="2104" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle">8</text>
@@ -188,11 +188,11 @@
     <text x="800" y="2140" fill="#d1d5db" font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle">Total stars / streak</text>
     <text x="1258" y="2140" fill="#d1d5db" font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle">Awards captured</text>
     <rect x="148" y="2162" width="392" height="18" rx="9" fill="#ffffff" fill-opacity="0.08"/>
-    <rect x="148" y="2162" width="302" height="18" rx="9" fill="#a855f7"/>
+    <rect x="148" y="2162" width="302" height="18" rx="9" fill="#dc143c"/>
     <rect x="610" y="2162" width="300" height="18" rx="9" fill="#ffffff" fill-opacity="0.08"/>
     <rect x="610" y="2162" width="232" height="18" rx="9" fill="#dc143c"/>
     <rect x="1060" y="2162" width="396" height="18" rx="9" fill="#ffffff" fill-opacity="0.08"/>
-    <rect x="1060" y="2162" width="316" height="18" rx="9" fill="#7c3aed"/>
+    <rect x="1060" y="2162" width="316" height="18" rx="9" fill="#dc143c"/>
   </g>
 
   <text x="800" y="2308" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800" text-anchor="middle">Connect</text>
@@ -209,7 +209,7 @@
 
   <rect x="118" y="2444" width="1364" height="116" rx="30" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
   <path d="M136 2502H1464" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
-  <text x="800" y="2488" fill="#f5e7ff" font-family="Segoe UI, Arial, sans-serif" font-size="18" text-anchor="middle">Code and learning, we have two most about code and learning.</text>
+  <text x="800" y="2488" fill="#ffe5e9" font-family="Segoe UI, Arial, sans-serif" font-size="18" text-anchor="middle">Code and learning, we have two most about code and learning.</text>
   <text x="800" y="2520" fill="#d1d5db" font-family="Segoe UI, Arial, sans-serif" font-size="16" text-anchor="middle">But what we do with coherent learning.</text>
-  <text x="800" y="2556" fill="#fca5a5" font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle">Built to ship. Built to learn. Built to scale.</text>
+  <text x="800" y="2556" fill="#ff9aa8" font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle">Built to ship. Built to learn. Built to scale.</text>
 </svg>
