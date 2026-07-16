@@ -16,6 +16,8 @@
 
 <br>
 
+<img width="100%" src="./assets/cards/hero-card.svg" alt="Hero mission card" />
+
 <img width="100%" src="./assets/divider.svg" alt="Section divider" />
 
 <div>
@@ -124,6 +126,10 @@ ai          ██████░░░░░░░░░░░░░░░░  
 </tr>
 </table>
 
+<img width="100%" src="./assets/cards/skills-card.svg" alt="Skills matrix card" />
+
+<img width="100%" src="./assets/divider.svg" alt="Section divider" />
+
 ## `> focus map`
 
 <img width="100%" src="./assets/cards/roadmap-card.svg" alt="Roadmap card" />
@@ -131,6 +137,10 @@ ai          ██████░░░░░░░░░░░░░░░░  
 <img width="100%" src="./assets/divider.svg" alt="Section divider" />
 
 ## `> visual dashboard`
+
+<img width="100%" src="./assets/cards/analytics-card.svg" alt="Analytics hub card" />
+
+<img width="100%" src="./assets/divider.svg" alt="Section divider" />
 
 <div align="center">
 
