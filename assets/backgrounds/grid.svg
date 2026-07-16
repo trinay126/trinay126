@@ -1,0 +1,25 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Background Grid</title>
+  <desc id="desc">Subtle animated cyber grid background.</desc>
+  <defs>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0V80" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#dc143c" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#dc143c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#05070d"/>
+  <rect width="1600" height="900" fill="url(#grid)"/>
+  <circle cx="380" cy="240" r="240" fill="url(#glow1)">
+    <animate attributeName="cx" values="360;480;360" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1230" cy="620" r="300" fill="url(#glow2)">
+    <animate attributeName="cy" values="600;680;600" dur="16s" repeatCount="indefinite"/>
+  </circle>
+</svg>

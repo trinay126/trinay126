@@ -1,0 +1,24 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Trinay Logo</title>
+  <desc id="desc">Minimal animated monogram with red and violet neon glow.</desc>
+  <defs>
+    <linearGradient id="g" x1="32" y1="32" x2="224" y2="224">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#fda4af"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="16" y="16" width="224" height="224" rx="44" fill="#09030f" stroke="#ffffff" stroke-opacity="0.08"/>
+  <circle cx="128" cy="128" r="82" fill="none" stroke="#dc143c" stroke-opacity="0.3" stroke-width="2"/>
+  <circle cx="128" cy="128" r="62" fill="none" stroke="#7c3aed" stroke-opacity="0.35" stroke-width="2"/>
+  <path d="M82 170V86H118C140 86 154 98 154 116C154 129 147 138 136 143L164 170H140L114 145H104V170H82ZM104 126H116C126 126 132 121 132 116C132 109 126 104 116 104H104V126Z" fill="url(#g)" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="3s" repeatCount="indefinite"/>
+  </path>
+</svg>

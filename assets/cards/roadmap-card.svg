@@ -1,0 +1,45 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Roadmap Card</title>
+  <desc id="desc">Animated roadmap card with game progression styling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520">
+      <stop offset="0" stop-color="#05070d"/>
+      <stop offset="1" stop-color="#100815"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="0.5" stop-color="#dc143c"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="520" rx="32" fill="url(#bg)" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="60" y="78" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">ROADMAP</text>
+  <text x="60" y="114" fill="#d1d5db" font-family="JetBrains Mono, Consolas, monospace" font-size="18">Progression path styled like a premium game HUD</text>
+  <line x1="100" y1="180" x2="1100" y2="180" stroke="url(#line)" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#ffffff" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700">
+    <circle cx="110" cy="180" r="16" fill="#22c55e"/><text x="86" y="228">SQL</text>
+    <circle cx="250" cy="180" r="16" fill="#22c55e"/><text x="211" y="228">Power BI</text>
+    <circle cx="390" cy="180" r="16" fill="#22c55e"/><text x="362" y="228">Excel</text>
+    <circle cx="540" cy="180" r="16" fill="#22c55e"/><text x="470" y="228">Python Fundamentals</text>
+    <circle cx="720" cy="180" r="16" fill="#f59e0b"/><text x="666" y="228">Advanced Python</text>
+    <circle cx="860" cy="180" r="16" fill="#f59e0b"/><text x="831" y="228">Git</text>
+    <circle cx="980" cy="180" r="16" fill="#f59e0b"/><text x="936" y="228">GitHub</text>
+    <circle cx="1060" cy="180" r="16" fill="#f59e0b"/><text x="1038" y="228">DSA</text>
+  </g>
+  <g fill="#ffffff" font-family="JetBrains Mono, Consolas, monospace" font-size="17">
+    <text x="60" y="306" fill="#fca5a5">NEXT</text>
+    <text x="60" y="338">FastAPI</text>
+    <text x="160" y="338">PostgreSQL</text>
+    <text x="330" y="338">Docker</text>
+    <text x="470" y="338">Backend</text>
+    <text x="600" y="338">Authentication</text>
+    <text x="810" y="338">REST APIs</text>
+    <text x="940" y="338">Applied AI Foundations</text>
+    <text x="60" y="414" fill="#fca5a5">FUTURE</text>
+    <text x="60" y="446">AI SaaS</text>
+  </g>
+  <rect x="60" y="360" width="1080" height="14" rx="7" fill="#ffffff" fill-opacity="0.08"/>
+  <rect x="60" y="360" width="820" height="14" rx="7" fill="#dc143c">
+    <animate attributeName="width" values="760;900;760" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

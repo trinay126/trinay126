@@ -1,0 +1,31 @@
+<svg width="1600" height="120" viewBox="0 0 1600 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Section Divider</title>
+  <desc id="desc">Animated neon divider for section breaks.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1600" y2="0">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#7c3aed" stop-opacity="0.95"/>
+      <stop offset="0.5" stop-color="#dc143c" stop-opacity="1"/>
+      <stop offset="0.75" stop-color="#7c3aed" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="120" fill="none"/>
+  <path d="M80 60H1520" stroke="#ffffff" stroke-opacity="0.08" stroke-width="2"/>
+  <path d="M120 60H1480" stroke="url(#line)" stroke-width="5" stroke-linecap="round" filter="url(#glow)">
+    <animate attributeName="stroke-dasharray" values="0 1600;280 1320;0 1600" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="800" cy="60" r="14" fill="#dc143c" filter="url(#glow)">
+    <animate attributeName="r" values="10;16;10" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="60" r="26" fill="#dc143c" fill-opacity="0.12">
+    <animate attributeName="r" values="18;34;18" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

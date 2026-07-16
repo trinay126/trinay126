@@ -1,0 +1,36 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile Card</title>
+  <desc id="desc">Animated mission card for the GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420">
+      <stop offset="0" stop-color="#070912"/>
+      <stop offset="1" stop-color="#12051a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="0.5" stop-color="#dc143c"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="420" rx="32" fill="url(#bg)" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="24" y="24" width="1152" height="372" rx="24" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="24" y="24" width="1152" height="8" rx="4" fill="url(#accent)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="980" cy="122" r="124" fill="#dc143c" fill-opacity="0.16" filter="url(#glow)">
+    <animate attributeName="cy" values="118;148;118" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="64" y="96" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">PROFILE SIGNAL</text>
+  <text x="64" y="152" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">Backend Developer • Python Developer • Data Analytics • Applied AI</text>
+  <text x="64" y="212" fill="#d1d5db" font-family="JetBrains Mono, Consolas, monospace" font-size="20" font-weight="500">Final-year CSE student building systems with speed, structure, and intent.</text>
+  <text x="64" y="258" fill="#fca5a5" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500">Current mission: sharpen advanced Python and ship backend foundations.</text>
+  <text x="64" y="300" fill="#fca5a5" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500">Career vision: build AI SaaS products that feel clean, fast, and premium.</text>
+  <rect x="64" y="334" width="310" height="28" rx="14" fill="#ffffff" fill-opacity="0.08"/>
+  <rect x="64" y="334" width="210" height="28" rx="14" fill="#dc143c">
+    <animate attributeName="width" values="210;268;210" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="84" y="354" fill="#ffffff" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">BUILDING A PERSONAL OPERATING SYSTEM</text>
+</svg>

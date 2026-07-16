@@ -1,0 +1,30 @@
+name: Profile Validation
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  validate-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify required SVG assets
+        run: |
+          test -f README.md
+          test -f assets/banner.svg
+          test -f assets/footer.svg
+          test -f assets/divider.svg
+          test -f assets/icons/logo.svg
+          test -f assets/backgrounds/grid.svg
+          test -f assets/cards/profile-card.svg
+          test -f assets/cards/roadmap-card.svg
+          test -f assets/cards/certifications-card.svg
+
+      - name: Report repository layout
+        run: |
+          echo "Profile repository assets verified successfully."
