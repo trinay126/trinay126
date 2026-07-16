@@ -13,6 +13,7 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="420" rx="32" fill="url(#bg)" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="24" y="24" width="1152" height="372" rx="24" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.06"/>
   <text x="60" y="74" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">ANALYTICS HUB</text>
   <text x="60" y="108" fill="#d1d5db" font-family="JetBrains Mono, Consolas, monospace" font-size="18">GitHub signals, commit cadence, and contribution rhythm</text>
   <g>

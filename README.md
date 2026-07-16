@@ -27,13 +27,18 @@
 
 ## Hero Mission
 
-Premium backend and analytics systems built with Python, FastAPI, PostgreSQL, Docker, and Applied AI.
+Premium backend, analytics, and AI systems built with structure, speed, and intent.
 
 Current mission: sharpen advanced Python, ship backend foundations, and turn data workflows into product-level interfaces.
 
-Current learning: deeper FastAPI architecture, PostgreSQL design patterns, and AI-assisted product thinking.
-
 Career vision: build AI SaaS products that look clean, feel fast, and scale without noise.
+
+### `> current status`
+
+- Backend systems
+- Python engineering
+- Analytics workflows
+- Applied AI foundations
 
 ### `> whoami`
 
@@ -69,19 +74,14 @@ ai          ██████░░░░░░░░░░░░░░░░  
 
 <pre>
 ┌─────────────────────────────────────────────────────┐
+│  Final Year CSE Student (2027)                      │
+│  Backend engineering · analytics · applied AI       │
 │                                                     │
-│  🎓 Final Year CSE Student (2027)                  │
-│     > backend engineering & applied AI              │
+│  Current stack                                      │
+│  Python · FastAPI · PostgreSQL · Docker             │
 │                                                     │
-│  📊 Analytics-first foundation                      │
-│     > SQL · Power BI · Excel                        │
-│                                                     │
-│  🐍 Python path                                     │
-│     > advanced python · fastapi · postgresql       │
-│                                                     │
-│  🚀 objective                                       │
-│     > build AI SaaS products                        │
-│                                                     │
+│  Objective                                          │
+│  Build AI SaaS products                             │
 └─────────────────────────────────────────────────────┘
 </pre>
 
@@ -185,6 +185,15 @@ ai          ██████░░░░░░░░░░░░░░░░  
 ## `> certifications`
 
 <img width="100%" src="./assets/cards/certifications-card.svg" alt="Certifications card" />
+
+## `> repository activity`
+
+<div align="center">
+
+![Repository Counter](https://img.shields.io/badge/Profile%20Repo-trinay126%2Ftrinay126-ff0033?style=for-the-badge)
+![Commit Calendar](https://img.shields.io/badge/Commit%20Calendar-Enabled-7c3aed?style=for-the-badge)
+
+</div>
 
 <img width="100%" src="./assets/divider.svg" alt="Section divider" />
 

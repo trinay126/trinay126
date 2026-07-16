@@ -21,6 +21,9 @@
     </filter>
   </defs>
   <rect width="1600" height="520" rx="42" fill="url(#bg)"/>
+  <rect x="92" y="34" width="1416" height="18" rx="9" fill="#ffffff" fill-opacity="0.05"/>
+  <rect x="672" y="18" width="256" height="20" rx="10" fill="#111827" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="696" y="22" width="208" height="12" rx="6" fill="url(#accent)" opacity="0.85"/>
   <circle cx="320" cy="128" r="210" fill="#dc143c" fill-opacity="0.16" filter="url(#soft)">
     <animate attributeName="cx" values="300;380;300" dur="10s" repeatCount="indefinite"/>
   </circle>
@@ -28,6 +31,7 @@
     <animate attributeName="cy" values="96;150;96" dur="12s" repeatCount="indefinite"/>
   </circle>
   <rect x="70" y="66" width="1460" height="388" rx="34" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="112" y="96" width="1376" height="330" rx="28" fill="#09090f" fill-opacity="0.54" stroke="#ffffff" stroke-opacity="0.05"/>
   <rect x="70" y="66" width="1460" height="8" rx="4" fill="url(#accent)">
     <animate attributeName="opacity" values="0.45;1;0.45" dur="4s" repeatCount="indefinite"/>
   </rect>
