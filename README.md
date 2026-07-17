@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Chadalavada Trinay Sai
 
-<!--
-**trinay126/trinay126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Data Analyst | Data Engineer | Cloud Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about transforming data into meaningful insights and building scalable data solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Learning
+
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Data Engineering
+- AWS Cloud
+- Git & GitHub
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Git
+- GitHub
+- AWS
+- Pandas
+- NumPy
+
+---
+
+## 📂 Projects
+
+- Data Analysis Projects
+- SQL Projects
+- Python Projects
+- Power BI Dashboards
+
+---
+
+## 🎯 Goal
+
+Become a Data Engineer and build cloud-native data pipelines.
+
+---
+
+## 📫 Connect
+
+- LinkedIn: *(Add your link)*
+- Email: *(Add your email)*
