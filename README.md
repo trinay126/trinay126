@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:000000,45:003b8f,100:0077ff&text=Chadalavada%20Trinay%20Sai&fontColor=ffffff&fontSize=40&fontAlignY=36&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:ffffff,45:eaf4ff,100:0077ff&text=Chadalavada%20Trinay%20Sai&fontColor=0b1220&fontSize=40&fontAlignY=36&animation=fadeIn" alt="Chadalavada Trinay Sai" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:0077ff,100:38BDF8&text=Chadalavada%20Trinay%20Sai&fontColor=ffffff&fontSize=40&fontAlignY=36&animation=fadeIn" />
 
 <h3>Backend + Applied AI Engineer</h3>
 
@@ -75,10 +72,7 @@
 
 <h2>GitHub Activity</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trinay126&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trinay126&theme=github" alt="GitHub profile summary" />
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=trinay126&theme=tokyo-night&hide_border=true&area=true" />
 
 <br><br>
 
@@ -113,9 +107,8 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0077ff,100:000000" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0077ff,100:ffffff" alt="" />
-</picture>
-
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:2563EB,100:60A5FA"
+  alt="Footer" />
 </div>
