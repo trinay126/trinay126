@@ -87,8 +87,8 @@ status: Building production-ready projects...
 <h3><code>$ git contribution-snake</code></h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trinay126/trinay126/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/trinay126/trinay126/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/trinay126/trinay126/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/trinay126/trinay126/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </picture>
 
 <br><br>
