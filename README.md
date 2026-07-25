@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<h3><code>$ cat profile.yml</code></h3>
+<h2>Profile Snapshot</h2>
 
 </div>
 
@@ -61,7 +61,7 @@ status: Building production-ready projects...
 
 <div align="center">
 
-<h3><code>$ ls core-stack</code></h3>
+<h2>Core Stack</h2>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" />
@@ -84,7 +84,13 @@ status: Building production-ready projects...
 
 <br>
 
-<h3><code>$ git contribution-snake</code></h3>
+<h2>GitHub Activity</h2>
+
+<img src="https://streak-stats.demolab.com?user=trinay126&theme=transparent&hide_border=true&background=00000000&stroke=0077ff&ring=0077ff&fire=0077ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0077ff&sideLabels=dcecff&dates=8abfff" alt="GitHub streak stats" />
+
+<br><br>
+
+<h3>Contribution Graph</h3>
 
 <img src="https://github.com/trinay126/trinay126/raw/output/github-contribution-grid-snake-dark.gif" alt="GitHub contribution snake animation" />
 
