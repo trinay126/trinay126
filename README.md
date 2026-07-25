@@ -96,6 +96,16 @@ status: Building production-ready projects...
 
 <br><br>
 
+<h2>Contact</h2>
+
+<p>
+  <a href="mailto:thrinaychadalavada@gmail.com"><img src="https://img.shields.io/badge/Gmail-0077ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/trinay/"><img src="https://img.shields.io/badge/LinkedIn-005fcc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://trinay126.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-003b8f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0077ff,100:000000" alt="" />
 
 </div>
