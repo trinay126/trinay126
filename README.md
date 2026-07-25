@@ -21,65 +21,51 @@
 
 <div align="center">
 
-<h2>Profile Snapshot</h2>
+<h2>Tech Stack & Toolbox</h2>
 
-</div>
-
-```yaml
-name: Chadalavada Trinay Sai
-education: B.Tech Computer Science (2027)
-location: India
-
-role: Backend + Applied AI Engineer
-focus:
-  - Backend Development
-  - AI Applications
-
-learning:
-  - Python
-  - FastAPI
-  - PostgreSQL
-  - REST APIs
-
-core_stack:
-  - Python
-  - SQL
-  - Git
-  - GitHub
-  - FastAPI
-  - PostgreSQL
-
-tools:
-  - VS Code
-  - Postman
-  - Docker
-
-status: Building production-ready projects...
-```
-
----
-
-<div align="center">
-
-<h2>Core Stack</h2>
+<h3>⚙️ Backend</h3>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
+  <img src="https://img.shields.io/badge/PYTHON-0077ff?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FASTAPI-005fcc?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REST%20API-003b8f?style=for-the-badge" alt="REST API" />
 </p>
 
+<h3>🗄️ Databases</h3>
+
 <p>
-  <img src="https://img.shields.io/badge/Python-0077ff?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-005fcc?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-003b8f?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0077ff?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Docker-005fcc?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-003b8f?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-0077ff?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL%20SERVER-005fcc?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQLITE-003b8f?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQL-0077ff?style=for-the-badge" alt="SQL" />
+</p>
+
+<h3>📊 Data & Analytics</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/EXCEL-0077ff?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/POWER%20BI-005fcc?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/PANDAS-003b8f?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NUMPY-0077ff?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+<h3>🤖 AI</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-0077ff?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/GEN%20AI%20TOOLS-005fcc?style=for-the-badge&logo=openai&logoColor=white" alt="Gen AI Tools" />
+</p>
+
+<h3>🛠 Tools</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/GIT-0077ff?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-005fcc?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/DOCKER-003b8f?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/LINUX-0077ff?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS%20CODE-005fcc?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/POSTMAN-003b8f?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/JUPYTER-0077ff?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 <br>
