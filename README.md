@@ -74,7 +74,7 @@
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=trinay126&theme=github-dark&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=trinay126&theme=github-compact&hide_border=true&area=true&line=0077FF&point=38BDF8&area_color=60A5FA&color=0077FF&title_color=0077FF"
   alt="GitHub Activity Graph" />
 <br><br>
 
