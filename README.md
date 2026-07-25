@@ -86,7 +86,7 @@ status: Building production-ready projects...
 
 <h3><code>$ git contribution-snake</code></h3>
 
-<img src="https://github.com/trinay126/trinay126/raw/output/github-contribution-grid-snake.gif" alt="GitHub contribution snake animation" />
+<img src="https://github.com/trinay126/trinay126/raw/output/github-contribution-grid-snake-dark.gif" alt="GitHub contribution snake animation" />
 
 <br><br>
 
