@@ -72,7 +72,10 @@
 
 <h2>GitHub Activity</h2>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=trinay126&theme=tokyo-night&hide_border=true&area=true" />
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=trinay126&theme=github-compact&hide_border=true&area=true"
+  alt="GitHub Activity Graph" />
 
 <br><br>
 
