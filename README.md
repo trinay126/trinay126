@@ -84,8 +84,12 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=trinay126&theme=transparent&hide_border=true&background=00000000&stroke=0077ff&ring=0077ff&fire=0077ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0077ff&sideLabels=dcecff&dates=8abfff" />
-  <img src="https://streak-stats.demolab.com?user=trinay126&theme=default&hide_border=true&background=ffffff00&stroke=005fcc&ring=0077ff&fire=0077ff&currStreakNum=1f2937&sideNums=1f2937&currStreakLabel=005fcc&sideLabels=475569&dates=64748b" alt="GitHub streak stats" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats-eight.vercel.app?user=trinay126&theme=github-dark-blue&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=trinay126&theme=default&hide_border=true"
+    alt="GitHub Streak Stats" />
 </picture>
 
 <br><br>
